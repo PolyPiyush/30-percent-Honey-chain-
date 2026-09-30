@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ESP32-DEVKITC-32E") (type "KiCad") (uri "D:/ESP32-DEVKITC-32E (1)/ESP32-DEVKITC-32E.kicad_sym") (options "") (descr ""))
+	(lib (name "BH1750FVI-TR") (type "KiCad") (uri "C:/Users/Acer/OneDrive/Desktop/BH1750FVI-TR/BH1750FVI-TR.kicad_sym") (options "") (descr ""))
+	(lib (name "BME280") (type "KiCad") (uri "C:/Users/Acer/OneDrive/Desktop/BME280/BME280.kicad_sym") (options "") (descr ""))
+)
