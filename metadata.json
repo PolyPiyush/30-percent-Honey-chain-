@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix HoneyChain — Hive to Consumer Traceability",
+  "description": "Blockchain-powered honey traceability and smart beekeeping platform featuring immersive 3D honeycomb navigation, IoT telemetry, AI hive intelligence, and consumer QR verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
